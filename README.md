@@ -1,5 +1,5 @@
 # Whiskerwood Archipelago
-This Mod implements [Archipelago](https://archipelago.gg/), the popular multi-world multigame randomizer, into the Game [Whiskerwood](https://www.hoodedhorse.com/games/whiskerwood) by Minakata Dynamics & Hooded Horse.
+This Mod implements [Archipelago](https://archipelago.gg/), the popular multiworld multi-game randomizer, into the Game [Whiskerwood](https://www.hoodedhorse.com/games/whiskerwood) by Minakata Dynamics & Hooded Horse.
 
 # Setup for Playing
 For setting up the Mod to play with Archipelago take a look at the [Setup page](https://github.com/ArvurRobin/Whiskerwood-Archipelago/blob/fc36daba6302835b540b7384281155a8b96853ee/docs/Setup.md) in the docs!
