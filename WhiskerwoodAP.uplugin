@@ -2,12 +2,12 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"FriendlyName": "WhiskerwoodAP",
+	"FriendlyName": "Whiskerwood Archipelago",
 	"Description": "Archipelago Implementation for Whiskerwood",
-	"Category": "Other",
+	"Category": "Whiskerwood",
 	"CreatedBy": "Robin Hasenbach",
-	"CreatedByURL": "",
-	"DocsURL": "",
+	"CreatedByURL": "https://github.com/ArvurRobin",
+	"DocsURL": "https://github.com/ArvurRobin/Whiskerwood-Archipelago",
 	"MarketplaceURL": "",
 	"SupportURL": "",
 	"CanContainContent": true,
@@ -19,6 +19,12 @@
 			"Name": "WhiskerwoodAP",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ArchipelagoUE",
+			"Enabled": true
 		}
 	]
 }
