@@ -1,4 +1,4 @@
-# Whiskerwood-Archipelago
+# Whiskerwood Archipelago
 This Mod implements Archipelago, the popular multi-world multigame randomizer, into the Game Whiskerwood by Minakata Dynamics & Hooded Horse.
 
 # Setup
